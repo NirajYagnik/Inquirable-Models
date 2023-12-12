@@ -1,5 +1,5 @@
 ## Inquirable Models
---
+
 
 The proposed work aims to bridge the gap between complex algorithmic decisions and patient
 comprehension and trust by developing a user-interactive risk prediction model. The work seeks
