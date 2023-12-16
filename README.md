@@ -20,6 +20,9 @@ achieve more informed healthcare decisions and patient-centric care.
 - Risk Model Notebook
   Contains the notebooks used for training the risk models on the respective datasets.
 
+- Llama 2 Notebook
+  Goes into detail about how the entire pipeline of training, prediction, getting explanations, updating values, and getting inference is automated for both datasets.
+
 - Result Sheet
   Excel sheet with responses on each question asked to each model.
 
@@ -30,5 +33,4 @@ achieve more informed healthcare decisions and patient-centric care.
 For GPT4, GPT3.5 and CustomGPT, the questions were manually fed to the interface and the following inference upon data edit is carried out manually too. 
 For LLAMA, the process is automated and illustrated in folder Llama2 Notebook (Follow readme.md in the folder for more details).
 
-- Llama 2 Notebook
-  Goes into detail about how the entire process is automated for both the datasets
+
