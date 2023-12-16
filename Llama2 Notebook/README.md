@@ -7,7 +7,7 @@ This project contains ML pipeline for explainable model using Llama2 7b. There a
 ## STEPS:
 Both the notebooks follow similar workflow detailed below:
 1. Importing necessary libraries and loading data
-2. Data Preprocessing
+2. Data Preprocessing -Training model
 3. Generating prompts for the types of questions identified.
 4. Loading Llama2 7b. 
 5. Prompting LLM on the generated prompts to answer each type of question using LLama2
