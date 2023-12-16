@@ -23,7 +23,12 @@ achieve more informed healthcare decisions and patient-centric care.
 - Result Sheet
   Excel sheet with responses on each question asked to each model.
 
+- Inference-Quantitative
+  Notebooks which when presented with the new updated record based on the recommendations made by the LLM will output the new prediction probability. 
+
 
 For GPT4, GPT3.5 and CustomGPT, the questions were manually fed to the interface and the following inference upon data edit is carried out manually too. 
 For LLAMA, the process is automated and illustrated in folder Llama2 Notebook (Follow readme.md in the folder for more details).
 
+- Llama 2 Notebook
+  Goes into detail about how the entire process is automated for both the datasets
