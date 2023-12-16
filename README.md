@@ -25,5 +25,5 @@ achieve more informed healthcare decisions and patient-centric care.
 
 
 For GPT4, GPT3.5 and CustomGPT, the questions were manually fed to the interface and the following inference upon data edit is carried out manually too. 
-For LLAMA, the process is automated and illustrated in folder ___.
+For LLAMA, the process is automated and illustrated in folder Llama2 Notebook.
 
