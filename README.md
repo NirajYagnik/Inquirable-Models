@@ -14,20 +14,19 @@ achieve more informed healthcare decisions and patient-centric care.
 
 ## Directory Structure
 
-- Dataset
-  Contains the two dataset used for the work. More specifically the diabetes detection dataset and heart failure prediction dataset.
+### Diabetes Detection
+  -Contains the two dataset used for the work. More specifically the diabetes detection dataset and heart failure prediction dataset.
 
-- Risk Model Notebook
-  Contains the notebooks used for training the risk models on the respective datasets.
+### Risk Model Notebook
+  -Contains the notebooks used for training the risk models on the respective datasets.
+### Llama 2 Notebook
+  -Goes into detail about how the entire pipeline of training, prediction, getting explanations, updating values, and getting inference is automated for both datasets.
 
-- Llama 2 Notebook
-  Goes into detail about how the entire pipeline of training, prediction, getting explanations, updating values, and getting inference is automated for both datasets.
+### Result Sheet
+  -Excel sheet with responses on each question asked to each model.
 
-- Result Sheet
-  Excel sheet with responses on each question asked to each model.
-
-- Inference-Quantitative
-  Notebooks which when presented with the new updated record based on the recommendations made by the LLM will output the new prediction probability. 
+### Inference-Quantitative
+  -Notebooks which when presented with the new updated record based on the recommendations made by the LLM will output the new prediction probability. 
 
 
 For GPT4, GPT3.5 and CustomGPT, the questions were manually fed to the interface and the following inference upon data edit is carried out manually too. 
