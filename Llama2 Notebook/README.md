@@ -1,4 +1,4 @@
-# Project Name
+# Inquirable Models using Llama 2
 
 ## Overview
 This project contains ML pipeline for explainable model using Llama2 7b. There are two main Jupyter notebooks: one for diabetes detection and another for heart failure prediction.
